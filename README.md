@@ -6,4 +6,4 @@ The data set: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneum
 
 There are two jupyter notebooks one with self-implemented custom CNN and the other with pretrained ResNet50 CNN.
 
-The overall accuracy of the models is around 82%, and the perfomance is yet to be honed.
+The overall accuracy of the models is around 80%, and the perfomance is yet to be honed.
