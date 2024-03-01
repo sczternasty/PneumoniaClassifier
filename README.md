@@ -1,6 +1,6 @@
 # PneumoniaClassifier
 
-The idea of the project was to create a classifier to identifiy pneumonia based on X-ray images 
+The idea of the project was to create a classifier to identifiy pneumonia based on X-ray images.
 
 The data set: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
